@@ -1,0 +1,6 @@
+[submodule "test"]
+	path = test
+	url = git@github.com:sd031/remote-repo-demo.git
+[submodule "part_2"]
+	path = part_2
+	url = git@github.com:sd031/git-part-2-remote-demo.git
